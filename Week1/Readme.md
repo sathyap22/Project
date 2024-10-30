@@ -1,3 +1,3 @@
 You can download the <a href="https://github.com/sathyap22/Project/blob/master/Sathya_Captsone.pdf" target="_blank">_Template: Evaluate Business Solution and Develop Recommendations_</a> document and use it with any word-processing software to perform the tasks outlined in the lab.
  
-Here is an [_Exemplar: Evaluate Business Solution and Develop Recommendations_](https://github.com/sktcontent/Business-Analysis-Process-Modeling-and-Requirements-Gathering/raw/main/labs/Module%201/Evaluate%20Business%20Solution%20and%20Develop%20Recommendations/Exemplar_Evaluate%20Business%20Solution%20and%20Develop%20Recommendations%20.pdf) document you can refer to evaluate the proposed solution and develop recommendations.
+Here is an [_Exemplar: Evaluate Business Solution and Develop Recommendations_](https://github.com/sathyap22/Project/blob/master/Sathya_Captsone.pdf) document you can refer to evaluate the proposed solution and develop recommendations.
